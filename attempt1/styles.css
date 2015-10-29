@@ -1,0 +1,10 @@
+#tbSales, 
+.tbItems{ width:100%; border:solid 1px; } 
+#tbSales thead th, .tbItems thead th{ text-align:left; } 
+#tbSales tr td, .tbItems tr td{ border:solid 1px; } 
+#tbSales tr td:nth-child(1){ width:20px;	} 
+#tbSales tbody tr{ background:#DCDCDC; } 
+.tbItems tr{ background:red; } 
+#tbSales thead{ background:#4682B4; } 
+.itemsRow{ display: none; } 
+.tbItems{ font-size:12px; } 
